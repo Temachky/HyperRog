@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HyperRog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a6cd8e79c1333dbbaae78e1dd34c4ca6fa1b929")]
 [assembly: System.Reflection.AssemblyProductAttribute("HyperRog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HyperRog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

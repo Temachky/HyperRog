@@ -8,9 +8,9 @@
 /profile:Reach
 /compress:False
 
-#-------------------------------- References ---------------------------------#
+#-------------------------------- References --------------------------------#
 
+/reference:..\pipeline-references\MonoGame.Extended.Content.Pipeline.dll
 
 #---------------------------------- Content ---------------------------------#
-
 
