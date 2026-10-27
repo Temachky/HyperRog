@@ -1,0 +1,162 @@
+{
+	"textures": [
+		{
+			"filename": "PlayerAnimtions-texture.png",
+			"format": "RGBA8888",
+			"size": {"w":103,"h":453},
+			"frames": {
+				"idle1":{
+					"frame": {"x":1,"y":1,"w":49,"h":30},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":12,"y":1}
+				},
+				"idle2":{
+					"frame": {"x":52,"y":1,"w":49,"h":30},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":12,"y":1}
+				},
+				"idle3":{
+					"frame": {"x":1,"y":33,"w":48,"h":30},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":12,"y":2}
+				},
+				"idle4":{
+					"frame": {"x":51,"y":33,"w":47,"h":30},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":12,"y":3}
+				},
+				"runBackward1":{
+					"frame": {"x":1,"y":135,"w":48,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":2}
+				},
+				"runBackward2":{
+					"frame": {"x":1,"y":171,"w":48,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":2}
+				},
+				"runBackward3":{
+					"frame": {"x":1,"y":65,"w":48,"h":33},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":2}
+				},
+				"runBackward4":{
+					"frame": {"x":51,"y":65,"w":48,"h":33},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":2}
+				},
+				"runBackward5":{
+					"frame": {"x":1,"y":100,"w":48,"h":33},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":2}
+				},
+				"runForward1":{
+					"frame": {"x":51,"y":100,"w":50,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":0}
+				},
+				"runForward2":{
+					"frame": {"x":51,"y":136,"w":50,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":0}
+				},
+				"runForward3":{
+					"frame": {"x":53,"y":208,"w":49,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":0}
+				},
+				"runForward4":{
+					"frame": {"x":51,"y":172,"w":50,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":0}
+				},
+				"runForward5":{
+					"frame": {"x":1,"y":208,"w":50,"h":34},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":0}
+				},
+				"runSouth1":{
+					"frame": {"x":1,"y":244,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":1}
+				},
+				"runSouth2":{
+					"frame": {"x":52,"y":244,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":1}
+				},
+				"runSouth3":{
+					"frame": {"x":1,"y":286,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":1}
+				},
+				"runSouth4":{
+					"frame": {"x":52,"y":286,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":1}
+				},
+				"runSouth5":{
+					"frame": {"x":1,"y":328,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":7,"y":1}
+				},
+				"runWest1":{
+					"frame": {"x":52,"y":328,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":3,"y":1}
+				},
+				"runWest2":{
+					"frame": {"x":1,"y":370,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":3,"y":1}
+				},
+				"runWest3":{
+					"frame": {"x":52,"y":370,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":3,"y":1}
+				},
+				"runWest4":{
+					"frame": {"x":1,"y":412,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":3,"y":1}
+				},
+				"runWest5":{
+					"frame": {"x":52,"y":412,"w":49,"h":40},
+					"rotated": 90,
+					"size": {"w":50,"h":50},
+					"offset": {"x":3,"y":1}
+				}
+			}
+		}
+	],
+
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"dataformat": "monogame-extended",
+		"version": "1.2",
+		"smartupdate": "$TexturePacker:SmartUpdate:a709eb161f72b71c5e2f8fcd8c0e330a:831ff40c990af0aa7344c277d1ae017b:2d0f06d284ddae0eb26c62894bd32fad$"
+	}
+}
